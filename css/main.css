@@ -1,0 +1,7 @@
+
+/*CSS MENU */
+.menu{width:100%; text-align: center;position: fixed;z-index: 2000px;}
+nav ul{padding: 0px;margin-top: 0px;}
+nav li{font-family: Franklin Gothic Demi; display: inline-block;list-style-type: none;margin-left: 30px;margin-right: 30px;margin-bottom: 7px;}
+nav #img{width: 180px;height: 140px; position: relative; top: 10px;margin-top: 0px;}
+#linea{height: 25px;}

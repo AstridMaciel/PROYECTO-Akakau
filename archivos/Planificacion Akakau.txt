@@ -1,0 +1,36 @@
+PLANIFICACION:
+-Se creará una página web dinámica.
+-Tendrá 5 items:
+     *Inicio:
+	-(En el logo)
+     *Conócenos:
+	-Historia familiar
+	-Misión y Visión
+     *Productos:
+	-Arequipela de Castaña
+	-Nibs
+	-Barras
+	-Trufas
+	   -Galácticas
+	   -Veganas
+	-Tablas
+	   -T. Crocante
+	   -T. de Café
+	   -T. de Coco
+	   -T. de Almendras
+	-Brownies
+	   -Chocolate
+	   -Doble chocolate
+  	   -Brownie Pop
+     *Servicios
+	-"Eleanor"
+	-"La cafetería"
+     *Contáctanos
+	-Facebook
+	-Números de contacto
+	-Dirección referencial
+	-(Algún correo)
+PÁGINAS REFERENCIALES:
+	*La ibérica
+	*Makao Perú
+	*Tanta
