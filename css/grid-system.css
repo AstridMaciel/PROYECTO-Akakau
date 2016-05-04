@@ -16,12 +16,13 @@
 /* Grid system */
 
 .container {
-	width: 968px;
+	width: 900px;
 	padding-left: 14px; 
 	padding-right: 14px;
 	margin: 0px auto;
 	position: relative;
 }
+
 
 .container-fluid {
 	width: 100%;
