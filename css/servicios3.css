@@ -1,0 +1,13 @@
+.head{
+	background-color: #e3c92f;}
+section{
+	text-align: center;
+}
+.servicio{
+	background-image: url("../img/eleonor3.jpg");
+	background: all;
+	background-repeat: no-repeat; 
+	background-position: center;
+	background-align:center;
+	background-size: cover;
+}

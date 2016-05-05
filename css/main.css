@@ -1,12 +1,16 @@
 .subtitulo{font-family: Gabriola;}
 .titulo{font-family: monofur;}
 /*CSS MENU */
-.head {margin:0px; position: static; background-color: #e3e50d;height: 150px;}
+.head {margin:0px; position: static; background-color: #e6ff5f;height: 150px;}
 .head nav ul{position: relative;bottom: 70px;}
 .head nav ul li{display: inline-block; margin-left: 30px;margin-right: 30px;}
 .head nav #img{position: relative; top:60px;}
 #mensaje{text-align: center;font-size: 25px;}
 
+a{
+	text-decoration: none;
+	color: black;
+}
 /*CSS BOTON*/
 .myButton {
 	-moz-box-shadow:inset 0px 1px 0px 0px #3dc21b;

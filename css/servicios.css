@@ -1,0 +1,43 @@
+.head{
+	background-color: #ff9c4a;
+}
+section{
+	text-align: center;
+}
+.servicio{
+	background-image: url("../img/eleonor.jpg");
+	background: all;
+	background-repeat: no-repeat; 
+	background-position: center;
+	background-align:center;
+	background-size: cover;
+
+}
+.texto1{
+	height: 700px;
+	width: 350px;
+	margin-bottom: 10px;
+	background-color: rgba(1, 1, 31, 0.6);
+	color: white;
+	padding: 20px;
+}
+#descrip{
+	list-style-type: none;
+	font-size: 25px;
+}
+button{
+	height: 100px;
+	width: 150px;
+}
+button img{
+	height: 100px;
+	width: 150px;
+}
+.boton{
+	margin-bottom: 30px;
+	margin-top: 20px;
+	display: inline-block;
+	list-style-type: none;
+	margin-right: 10px;
+	margin-left: 15px;
+}

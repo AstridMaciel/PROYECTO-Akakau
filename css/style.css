@@ -3,7 +3,7 @@
 	padding: 0;
 	margin: 0;
 }
-a {
+#buton {
 	text-decoration: none;}
 .intro {
 	width: 100%;
@@ -71,7 +71,7 @@ h1 + p {
 	color: #fff;
 }
 
-h3, h3 + a {
+h3, h3 + #buton {
 	opacity: 0;
 	-webkit-transition: opacity .7s 0s, -webkit-transform .5s .2s;
 	transition: opacity .7s 0s, -webkit-transform .5s .2s;
@@ -80,7 +80,7 @@ h3, h3 + a {
 	-webkit-transform: translate3d(0, 50%, 0);
 	        transform: translate3d(0, 50%, 0);
 }
-li.current h3, li.current h3 + a {
+li.current h3, li.current h3 + #buton {
 	opacity: 1;
 	-webkit-transition-delay: 1s;
 	        transition-delay: 1s;
@@ -102,7 +102,7 @@ li.prev {
 	text-align: center;
 	z-index: 10;
 }
-nav a {
+nav #buton {
 	display: inline-block;
 	border-radius: 50%;
 	width: 1.2rem;
@@ -116,7 +116,7 @@ nav a {
   transition: transform .3s;
   transition: transform .3s, -webkit-transform .3s;
 }
-a.current_dot {
+#buton.current_dot {
 	-webkit-transform: scale(1.4);
 	        transform: scale(1.4);
 }
