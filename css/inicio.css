@@ -8,36 +8,37 @@ video {
     right: 0;
     width: auto;
     z-index: -100;
-    opacity: 0.6;
 }
 .logo img{
    width: 300px;
    height: 300px;
    position: absolute;
-   top: 8%;
-   left: 35%;
-
+   top: 0px;
+   right: 0px;
+   opacity: 0.5;
 }
 .menu{
   position: absolute;
-  left: 30%;
-  bottom: 0;
+  right: 0px;
+  bottom: 0px;
+  background-color:black;
+  opacity: 0.5; 
+  width: 300px;
 }
 .menu .lista li{
   display: block;
-  border: 2px solid #fff;
-  border-radius:20px;
-  margin:20px;
   list-style: none;
-  padding: 20px;
-  width: 250px;
+  padding: 10px;
+  font-size: 30px;
+
 }
 .menu .lista li a{
 text-decoration: none;
 color:  #fff;
+padding: 10px;
 }
 .menu .lista li a:hover{
   font-weight: bolder;
-  color: #c9641d;}
+  color:  #88cc00;}
 }
 
