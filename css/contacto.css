@@ -1,0 +1,43 @@
+.head{
+	background-color: #eee193;
+}
+.col-7{
+	background-image: url("../img/casona.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+.col-5{
+	background-image: url("../img/manteca.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.col-5 ul{
+	margin-top: 100px;
+	margin-left: 20px;
+	padding-top: 20px;
+}
+.col-5 li{
+	list-style-type: none;
+}
+/*.opa{
+	background-color: rgba(128, 128, 0, 0.8);	
+}
+.subtitulo{
+	margin-left: 10px;
+	font-size: 23px;
+}
+.inner-wrap ul{
+	text-align: center;
+	margin-top: 10px;
+}
+.icon{
+	display: inline-block;
+}
+#icon{
+width: 40px;
+height: 40px;
+margin-right: 15px;
+}*/
+
+
