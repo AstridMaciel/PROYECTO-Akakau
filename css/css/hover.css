@@ -1413,7 +1413,7 @@
   vertical-align: middle;
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
-  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  box-shadow: 0 0 0px rgba(0, 0, 0, 0);
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -moz-osx-font-smoothing: grayscale;
@@ -1426,17 +1426,9 @@
 .hvr-back-pulse:hover, .hvr-back-pulse:focus, .hvr-back-pulse:active {
   -webkit-animation-name: hvr-back-pulse;
   animation-name: hvr-back-pulse;
-  -webkit-animation-duration: 1s;
-  animation-duration: 1s;
-  -webkit-animation-delay: 0.5s;
-  animation-delay: 0.5s;
-  -webkit-animation-timing-function: linear;
-  animation-timing-function: linear;
-  -webkit-animation-iteration-count: infinite;
-  animation-iteration-count: infinite;
-  background-color: #2098d1;
-  background-color: #2098d1;
-  color: white;
+   background-color: #E0BF60;
+  background-color: #E0BF60;
+  border-radius: 40px;
 }
 
 /* Sweep To Right */
@@ -1463,7 +1455,8 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: #2098d1;
+  background: #E0BF60;
+  border-radius: 30px;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 0 50%;
