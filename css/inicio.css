@@ -1,4 +1,4 @@
-video {
+.portada-video video {
     background-size: cover;
     bottom: 0;
     height: auto;
@@ -41,4 +41,5 @@ padding: 10px;
   font-weight: bolder;
   color:  #88cc00;}
 }
+
 
