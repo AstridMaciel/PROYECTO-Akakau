@@ -14,13 +14,10 @@ a{
 
 footer[role="contentinfo"] {
   flex: none;
-<<<<<<< HEAD
   height: 70px;
   background: #f2dd61;
-=======
   height: 200px;
   background: #493616;
->>>>>>> 0e30b0f79a462755d138b0aea0b995cc9337bfbc
   vertical-align: middle;
   align-items: center;	
 }
